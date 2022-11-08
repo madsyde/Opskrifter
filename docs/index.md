@@ -1,24 +1,31 @@
-#suppe 
+# Suppe 
 [[Ezogelinsuppe]]
+
 [[Bondesuppe]]
+
 [[Broccolisuppe]]
+
 [[Jordskokkesuppe]]
 
-#vegetar 
+# Vegetar 
 [[Aubergineragu]]
+
 [[Beluga bolognese]]
 
-#italiensk 
+# Italiensk 
 [[Spaghetti Bolognese]] - Valdemarsro
+
 [[Amatriciana]]
+
 [[Cacio é pepe]]
+
 [[Carbonara]]
 
-#mexicansk 
+# Mexicansk 
 [[Chili con carne]]
 
-#indisk 
+# Indisk 
 [[Dhal]]
 
-#misc 
+# Misc 
 [[Burgerdressing]]

@@ -2,17 +2,17 @@
 [Voresmad](https://voresmad.dk/opskrifter/ovnbagte-hele-kyllingelaar-med-honning-loeg-og-timian)
 
 ## Ingredienser
-4 kyllingelår -over- og underlår uden eller med rygben, ca. 1 kg afhængig af pakkestørrelse
-Salt og peber
-6 løg, ca. 600 g 
-1-2 spsk flydende honning
-6-8 kviste timian evt. citrontimian
-Evt. 1 dl bouillon
+- 4 kyllingelår - over- og underlår uden eller med rygben, ca. 1 kg afhængig af pakkestørrelse
+- Salt og peber
+- 6 løg, ca. 600 g 
+- 1-2 spsk flydende honning
+- 6-8 kviste timian evt. citrontimian
+- Evt. 1 dl bouillon
 
 Tilbehør
-3 dl ris - gerne brune ris
-2-3 gulerødder
-1 bundt broccoli, ca. 500 g
+- 3 dl ris - gerne brune ris
+- 2-3 gulerødder
+- 1 bundt broccoli, ca. 500 g
 
 ## Trin
 Skær løgene i skiver og læg dem i en bradepande. Krydr med salt og peber.

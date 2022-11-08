@@ -1,10 +1,10 @@
-#dansk
+# Kartoffelmos
 
 ## Ingredienser
-- [ ] 500 g kartofler
-- [ ] 1 spsk smør
-- [ ] 3/4 dl mælk
-- [ ] salt og peber
+- 500 g kartofler
+- 1 spsk smør
+- 3/4 dl mælk
+- salt og peber
 
 ## Trin
 1. Kog kartofler
