@@ -1,4 +1,4 @@
-#dansk #kylling
+# Kyllingelår i ovn
 [Voresmad](https://voresmad.dk/opskrifter/ovnbagte-hele-kyllingelaar-med-honning-loeg-og-timian)
 
 ## Ingredienser
