@@ -1,11 +1,24 @@
-# Obsidian Notes
+#suppe 
+[[Ezogelinsuppe]]
+[[Bondesuppe]]
+[[Broccolisuppe]]
+[[Jordskokkesuppe]]
 
-Publish your public notes with MkDocs
+#vegetar 
+[[Aubergineragu]]
+[[Beluga bolognese]]
 
-## Hello World!
+#italiensk 
+[[Spaghetti Bolognese]] - Valdemarsro
+[[Amatriciana]]
+[[Cacio é pepe]]
+[[Carbonara]]
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+#mexicansk 
+[[Chili con carne]]
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+#indisk 
+[[Dhal]]
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+#misc 
+[[Burgerdressing]]
