@@ -72,8 +72,6 @@
 
 [[Ragú Bianco]]
 
-[[Ribollita]]
-
 [[Spaghetti Bolognese]]
 
 ## Mexicansk 
