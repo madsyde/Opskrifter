@@ -1,7 +1,7 @@
 # Gullash med kartoffelmos
 
 ## Ingredienser
-**GULLASH**
+### Gullash
 - 500 g oksekød (i tern)
 - 1 stort løg (hakket)
 - 2 fed hvidløg (hakket)
@@ -16,6 +16,7 @@
 - 1 bundt persille (hakket)
 
 **KARTOFFELMOS**
+
 - 1 kg melede kartofler (skrællet og skåret i stykker)
 - 1.5 dl mælk
 - 1 spsk smør
