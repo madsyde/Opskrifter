@@ -2,7 +2,7 @@
 [Buzzfeed](https://www.buzzfeed.com/nickguillory/heres-a-quick-and-easy-swedish-meatball-pasta-dinner-that-yo?utm_term=.pq0WLxXqR#.wb8VMr4kv)
 
 ## Ingredienser
-**Meatballs**
+### Meatballs
 - 450g Beef Mince
 - 45g Breadcrumbs
 - 1/2 onion, finely chopped
@@ -11,7 +11,7 @@
 - 1/2 tsp pepper
 - 2 tbsp vegetable/corn/sunflower oil
 
-**Sauce**
+### Sauce
 - 480 ml beef stock
 - 480 ml milk
 - 1/2 tsp salt
