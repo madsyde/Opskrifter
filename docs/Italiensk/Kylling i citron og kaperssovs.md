@@ -26,7 +26,7 @@
 3. To make the sauce, add the lemon juice, stock and capers to the pan juices. Stir and scrape the bottom of the pan to release any sticky bits left from the chicken. Bring to the boil, stirring, and boil for 1 minute. Add the parsley and remaining butter and simmer for 1 further minute, stirring until blended.
 4. To serve, place two pieces of chicken on a warm plate and drizzle over the sauce. Serve immediately.
 
-**Roasted new potatoes with peppers, garlic and rosemary**
+### Roasted potatoes with peppers, garlic and rosemary
 1. This is the way my mother used to cook potatoes for me when I was growing up, and it’s how I make roast potatoes for my wife and children today. It’s a really easy recipe, as everything goes into one roasting tin and there’s no need to parboil the potatoes. If you prefer, you can use courgettes or carrots instead of peppers and fresh thyme instead of rosemary. It makes a perfect accompaniment to any fish or meat dish.
 2. Preheat the oven to 200C, gas 6. Put the potatoes, peppers, garlic and rosemary in a medium roasting tin. Pour over the oil and season with salt and pepper.
 3. Toss the vegetables in the oil. Use your hands to combine all the ingredients and make sure everything is well coated in the oil, including the bottom of the tin.
