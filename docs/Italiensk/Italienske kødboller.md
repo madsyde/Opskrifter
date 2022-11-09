@@ -1,16 +1,16 @@
-#italiensk 
+# Italienske kødboller
 
 ## Ingredienser
-- [ ] 500 g hakket oksekød 11 %
-- [ ] salt og peber
-- [ ] 1 stk stort løg
-- [ ] 1 fed hvidløg
-- [ ] 1 bakke frisk basilikum
-- [ ] 1 dl rasp
-- [ ] 1 æg
-- [ ] 0.5 dl parmesan
-- [ ] 1 dl vand
-- [ ] olivenolie til stegning
+- 500 g hakket oksekød 11 %
+- salt og peber
+- 1 stk stort løg
+- 1 fed hvidløg
+- 1 bakke frisk basilikum
+- 1 dl rasp
+- 1 æg
+- 0.5 dl parmesan
+- 1 dl vand
+- olivenolie til stegning
 
 ## Trin
 1. Rør kødet sammen med salt og peber.

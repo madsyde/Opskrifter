@@ -1,11 +1,11 @@
-#suppe #test 
+# Ostesuppe
 
 ## Ingredienser
-- [ ] 3 porrer
-- [ ] 1-2 pk. flødeost naturel
-- [ ] 1 pk. bacontern
-- [ ] Ca. 1 l boullion
-- [ ] Evt. lidt flåede tomater
+- 3 porrer
+- 1-2 pk. flødeost naturel
+- 1 pk. bacontern
+- Ca. 1 l boullion
+- Evt. lidt flåede tomater
 
 ## Trin
 1. Porrer renses og skæres i stykker - svitses i karry.

@@ -9,21 +9,21 @@
 - 6-8 kviste timian evt. citrontimian
 - Evt. 1 dl bouillon
 
-Tilbehør
+**Tilbehør**
 - 3 dl ris - gerne brune ris
 - 2-3 gulerødder
 - 1 bundt broccoli, ca. 500 g
 
 ## Trin
-Skær løgene i skiver og læg dem i en bradepande. Krydr med salt og peber.
-Dup kødet tørt med køkkenrulle. Krydr med salt og peber. Læg kødet oven på løgene.
-Drys timiankvistene over.
-Stil bradepanden i ovnen. Tænd ovnen på 200 grader og steg til kyllingen er gennemstegt. Kyllingelårene skal have ca. 45 minutter i ovnen. Tilsæt bouillon, hvis der mangler væde i bradepanden, og dryp honning på, når der mangler 15 minutter af stegetiden.
-Kog risen.
-Damp gulerødder skåret i stave eller skiver alt efter smag og behag.
-Damp broccolibuketter.
+1. Skær løgene i skiver og læg dem i en bradepande. Krydr med salt og peber.
+2. Dup kødet tørt med køkkenrulle. Krydr med salt og peber. Læg kødet oven på løgene.
+3. Drys timiankvistene over.
+4. Stil bradepanden i ovnen. Tænd ovnen på 200 grader og steg til kyllingen er gennemstegt. Kyllingelårene skal have ca. 45 minutter i ovnen. Tilsæt bouillon, hvis der mangler væde i bradepanden, og dryp honning på, når der mangler 15 minutter af stegetiden.
+5. Kog risen.
+6. Damp gulerødder skåret i stave eller skiver alt efter smag og behag.
+7. Damp broccolibuketter.
 
 ## Noter
-1 kg kyllingeunderlår eller -overlår kan bruges i stedet for hele kyllingelår.
-Andre grøntsager som fx selleri, jordskokker, pastinak, persillerod, kålrabi, squash, aubergine, gulerod, porre, peberfrugter og tomater m.fl. kan bruges i stedet for løg.
-En blanding af æbler, svesker og løg kan også bruges i stedet for løg.
+- 1 kg kyllingeunderlår eller -overlår kan bruges i stedet for hele kyllingelår.
+- Andre grøntsager som fx selleri, jordskokker, pastinak, persillerod, kålrabi, squash, aubergine, gulerod, porre, peberfrugter og tomater m.fl. kan bruges i stedet for løg.
+- En blanding af æbler, svesker og løg kan også bruges i stedet for løg.

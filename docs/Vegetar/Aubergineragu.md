@@ -1,19 +1,20 @@
-#vegetar
+# Aubergineragu
 
 ## Ingredienser
-- [ ] 1 aubergine
-- [ ] 1 dl olivenolie
-- [ ] 1 løg
-- [ ] 4 fed hvidløg
-- [ ] 1 dåse flåede tomater
-- [ ] 2 spsk. tomatpuré
-- [ ] 1 dl hvidvin
-- [ ] 1 tsk. tørret oregano
-- [ ] 320 g spaghetti
-- [ ] parmesanost
+- 1 aubergine
+- 1 dl olivenolie
+- 1 løg
+- 4 fed hvidløg
+- 1 dåse flåede tomater
+- 2 spsk. tomatpuré
+- 1 dl hvidvin
+- 1 tsk. tørret oregano
+- 320 g spaghetti
+- parmesanost
 
-- [ ] Svampe
-- [ ] Ansjoser
+**Evt.**
+- Svampe
+- Ansjoser
 
 ## Trin
 1. Riv auberginen på den grove side af et rivejern. Kom den i en stor gryde, og tilsæt olien.

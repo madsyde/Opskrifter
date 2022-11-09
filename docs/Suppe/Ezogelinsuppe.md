@@ -1,20 +1,20 @@
-#suppe
+# Ezogelinsuppe
 
 ## Ingredienser
-- [ ] 400 g tomater
-- [ ] 2 skalotteløg
-- [ ] 1 fed hvidløg
-- [ ] 20 g persille
-- [ ] 2 dl linser
-- [ ] 1 dl bulgur
-- [ ] 5 spsk. olivenolie
-- [ ] 50 g smør
-- [ ] 1,5 liter grøntsagsbouillon
-- [ ] 2 spsk. tørret mynte
-- [ ] 1 spsk. paprika
-- [ ] persille
-- [ ] citronsaft
-- [ ] pul biber, tyrkiske chiliflager
+- 400 g tomater
+- 2 skalotteløg
+- 1 fed hvidløg
+- 20 g persille
+- 2 dl linser
+- 1 dl bulgur
+- 5 spsk. olivenolie
+- 50 g smør
+- 1,5 liter grøntsagsbouillon
+- 2 spsk. tørret mynte
+- 1 spsk. paprika
+- persille
+- citronsaft
+- pul biber, tyrkiske chiliflager
 
 ## Trin
 1. Lav et snit i bunden af tomaterne, og læg dem i en skål med kogende vand. Lad dem stå i ca. 10-15 min., hvorefter du fjerner skindet fra tomaterne og skærer dem ud i mellemstore tern. Saml så meget som muligt af saften fra tomaterne i en skål sammen med tomatkødet.

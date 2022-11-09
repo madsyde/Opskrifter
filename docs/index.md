@@ -6,7 +6,13 @@
 
 [[Gryderet med hakket oksekød]]
 
+[[Gullash med kartoffelmos]]
+
 [[Kartoffelmos]]
+
+[[Karryris med kylling]]
+
+[[Kogte karryris med persille]]
 
 [[Koteletter i fad med pikantost og bacon]]
 
@@ -14,12 +20,71 @@
 
 [[Kyllingekødboller]]
 
+[[Kyllingelår i ovn]]
+
 [[Langtidssimret oksegryde]]
 
-[[Svens Pølseret med Pasta]]
+[[Nudler med oksekød og forårsløg]]
 
 [[Svensk Pølseret]]
 
+[[Svensk Pølseret med Pasta]]
+
+## Indisk 
+[[Dhal]]
+
+[[Kikærter i indisk karry]]
+
+## Italiensk 
+[[Aglio Olio e Peperoncino]]
+
+[[Amatriciana]]
+
+[[Cacio é pepe]]
+
+[[Carbonara]]
+
+[[Chicken Alfredo penne]]
+
+[[Fettucine Boscaiola]]
+
+[[Frittata]]
+
+[[Italienske frikadeller i tomatsovs]]
+
+[[Italienske kødboller]]
+
+[[Kylling i citron og kaperssovs]]
+
+[[Pasta All'Arrabbiata]]
+
+[[Pasta é ceci]]
+
+[[Pasta med broccolipuré]]
+
+[[Pasta med rejer og hvidløg]]
+
+[[Penne med Tun og Peberfrugter]]
+
+[[Puttanesca]]
+
+[[Ragú Alla Bolognese]]
+
+[[Ragú Bianco]]
+
+[[Ribollita]]
+
+[[Spaghetti Bolognese]]
+
+## Mexicansk 
+[[Chili con carne]]
+
+## Onepot
+[[One pot kylling spinat bacon alfredo]]
+
+[[One pot pasta med chorizo]]
+
+[[One pot svensk kødbolle pasta]]
 
 ## Suppe 
 [[Bondesuppe]]
@@ -53,55 +118,10 @@
 
 [[Beluga bolognese]]
 
-## Italiensk 
-[[Aglio Olio e Peperoncino]]
-
-[[Amatriciana]]
-
-[[Cacio é pepe]]
-
-[[Carbonara]]
-
-[[Chicken Alfredo penne]]
-
-[[Fettucine Boscaiola]]
-
-[[Frittata]]
-
-[[Italienske frikadeller i tomatsovs]]
-
-[[Italienske kødboller]]
-
-[[Kylling i citron og kaperssovs]]
-
-[[Pasta All'Arrabbiata]]
-
-[[Pasta é ceci]]
-
-[[Pasta med broccolipuré]]
-
-[[Penne med Tun og Peberfrugter]]
-
-[[Puttanesca]]
-
-[[Ragú Alla Bolognese]]
-
-[[Ragú Bianco]]
-
-[[Ribollita]]
-
-[[Spaghetti Bolognese]]
-
-## Mexicansk 
-[[Chili con carne]]
-
-## Indisk 
-[[Dhal]]
-
-[[Kikærter i indisk karry]]
-
 ## Misc 
 [[Burgerdressing]]
+
+[[Creamy white chicken chili]]
 
 [[Omelet med svampe og ost]]
 

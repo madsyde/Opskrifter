@@ -1,15 +1,15 @@
-#suppe #test
+# Linsesuppe
 
 ## Ingredienser
-- [ ] 2 gulerødder
-- [ ] 1 lille squash
-- [ ] 1 stort løg
-- [ ] 2 stilke bladselleri
-- [ ] 3 fed hvidløg
-- [ ] 10-12 dl grøntsagsbouillon
-- [ ] 1 dl grønne linser
-- [ ] 1 dåse hakkede tomater
-- [ ] 150 g spinat
+- 2 gulerødder
+- 1 lille squash
+- 1 stort løg
+- 2 stilke bladselleri
+- 3 fed hvidløg
+- 10-12 dl grøntsagsbouillon
+- 1 dl grønne linser
+- 1 dåse hakkede tomater
+- 150 g spinat
 
 ## Trin
 1. Hak grøntsager

@@ -1,25 +1,26 @@
-#italiensk #test
+# Chicken Alfredo penne
 
 ## Ingredienser
-- [ ] 1½ pounds (700 grams) chicken breast, cubed
-- [ ] 2 tablespoons butter
-- [ ] ½ teaspoon dried oregano
-- [ ] ½ teaspoon dried basil
-- [ ] ½ teaspoon salt
-- [ ] ½ teaspoon pepper
-- [ ] 16 ounces (450 grams) penne pasta, cooked
-- [ ] ¼ cup parsley
-- [ ] ¼ cup parmesan, shredded
-- [ ] Sauce
-- [ ] 2 tablespoons butter
-- [ ] 4 cloves garlic, minced
-- [ ] 3 tablespoons flour
-- [ ] 2 cups milk
-- [ ] ½ teaspoon oregano
-- [ ] ½ teaspoon basil
-- [ ] 1/2 cup parmesan, shredded
-- [ ] ½ teaspoon salt
-- [ ] ½ teaspoon pepper
+- 1½ pounds (700 grams) chicken breast, cubed
+- 2 tablespoons butter
+- ½ teaspoon dried oregano
+- ½ teaspoon dried basil
+- ½ teaspoon salt
+- ½ teaspoon pepper
+- 16 ounces (450 grams) penne pasta, cooked
+- ¼ cup parsley
+- ¼ cup parmesan, shredded
+
+**Sauce**
+- 2 tablespoons butter
+- 4 cloves garlic, minced
+- 3 tablespoons flour
+- 2 cups milk
+- ½ teaspoon oregano
+- ½ teaspoon basil
+- 1/2 cup parmesan, shredded
+- ½ teaspoon salt
+- ½ teaspoon pepper
 
 ## Trin
 1. In a pan over medium-high heat, melt butter, then add the chicken breast.

@@ -1,19 +1,19 @@
-#italiensk
+# Spaghetti Bolognese
 [Valdemarsro](https://www.valdemarsro.dk/spaghetti-bolognese)
 
 ## Ingredienser
-- [ ] 500 g hakket oksekød
-- [ ] 2 spsk olivenolie
-- [ ] 50 g bacon
-- [ ] 3 stængler frisk timian, (eller 1 1/2 tsk tørret)
-- [ ] 2 fed hvidløg, finthakket
-- [ ] 2 løg, finthakket
-- [ ] 1 dl rødvin, (kan evt. undlades)
-- [ ] 100 g soltørrede tomater, finthakket
-- [ ] 2 tsk rød balsamico
-- [ ] 2 dåser hakkede tomater
-- [ ] 400 g spaghetti
-- [ ] 75 g parmasan
+- 500 g hakket oksekød
+- 2 spsk olivenolie
+- 50 g bacon
+- 3 stængler frisk timian, (eller 1 1/2 tsk tørret)
+- 2 fed hvidløg, finthakket
+- 2 løg, finthakket
+- 1 dl rødvin, (kan evt. undlades)
+- 100 g soltørrede tomater, finthakket
+- 2 tsk rød balsamico
+- 2 dåser hakkede tomater
+- 400 g spaghetti
+- 75 g parmasan
 
 ## Trin
 1. Skær baconen i tynde skiver og steg skiverne i olivenolie i en tykbundet gryde ved middelhøj varme. Når baconen er færdigstegt, tages den op og drypper af på et stykke køkkenrulle.

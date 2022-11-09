@@ -1,17 +1,17 @@
-#italiensk #test 
+# Fettucine Boscaiola
 
 ## Ingredienser
-Egg fettucine or egg tagliatelle
-2 Italian pork and fennel sausages
-200g/7 oz sliced mushrooms (any variety)
-3 Tbsp pecorino cheese
-3 Tbsp mascarpone cheese
-2 garlic cloves
-Bunch of parsley
-Half glass of white wine (about ½ cup)
-4 Tbsp Extra Virgin Olive Oil (EVOO)
-Salt & pepper
-1 Tbsp rock salt (for boiling the pasta)
+- Egg fettucine or egg tagliatelle
+- 2 Italian pork and fennel sausages
+- 200g/7 oz sliced mushrooms (any variety)
+- 3 Tbsp pecorino cheese
+- 3 Tbsp mascarpone cheese
+- 2 garlic cloves
+- Bunch of parsley
+- Half glass of white wine (about ½ cup)
+- 4 Tbsp Extra Virgin Olive Oil (EVOO)
+- Salt & pepper
+- 1 Tbsp rock salt (for boiling the pasta)
 
 ## Trin
 Time to start the fettuccine boscaiola recipe! Using a small paring knife, remove the sausage casings then press the sausages down using a fork on a plate.

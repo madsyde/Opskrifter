@@ -1,25 +1,25 @@
-#tbd
+# Gullash med kartoffelmos
 
 ## Ingredienser
-GULLASH
-500 g oksekød (i tern)
-1 stort løg (hakket)
-2 fed hvidløg (hakket)
-4 dl vand
-1 oksebouillonterning
-1 dåse flåede tomater
-1 dåse tomatkoncentrat (stor eller lille efter smag)
-1 gulerod (i tern)
-1 laurbærblad
-1 spsk paprika
-2 tsk salt
-1 bundt persille (hakket)
+**GULLASH**
+- 500 g oksekød (i tern)
+- 1 stort løg (hakket)
+- 2 fed hvidløg (hakket)
+- 4 dl vand
+- 1 oksebouillonterning
+- 1 dåse flåede tomater
+- 1 dåse tomatkoncentrat (stor eller lille efter smag)
+- 1 gulerod (i tern)
+- 1 laurbærblad
+- 1 spsk paprika
+- 2 tsk salt
+- 1 bundt persille (hakket)
 
-KARTOFFELMOS
-1 kg melede kartofler (skrællet og skåret i stykker)
-1.5 dl mælk
-1 spsk smør
-1 drys salt og friskkværnet peber efter smag
+**KARTOFFELMOS**
+- 1 kg melede kartofler (skrællet og skåret i stykker)
+- 1.5 dl mælk
+- 1 spsk smør
+- 1 drys salt og friskkværnet peber efter smag
 
 ## Trin
 1. Opvarm lidt fedtstof i en stor gryde ved medium varme og brun kødet heri. Fjern eventuelt overskydende fedt og tilsæt løg og hvidløg. Steg til løgene er gennemsigtige.

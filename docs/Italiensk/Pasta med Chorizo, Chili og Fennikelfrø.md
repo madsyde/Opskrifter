@@ -1,17 +1,17 @@
-#italiensk 
+# Pasta med Chorizo, Chili og Fennikelfrø
 
 ## Ingredienser
-400 g pasta
-200 g chorizopølse
-1 stk. rød chilipeber
-1 stk. løg
-4 fed hvidløg
-olivenolie
-1 tsk. fennikelfrø
-4 spsk. tomatpure
-2.5 dl fløde
-parmesanost
-salt og peber
+- 400 g pasta
+- 200 g chorizopølse
+- 1 stk. rød chilipeber
+- 1 stk. løg
+- 4 fed hvidløg
+- olivenolie
+- 1 tsk. fennikelfrø
+- 4 spsk. tomatpure
+- 2.5 dl fløde
+- parmesanost
+- salt og peber
 
 ## Trin
 1. Kog pastaen i letsaltet vand, til den er al dente.

@@ -1,20 +1,20 @@
-#suppe
+# Mongolsk suppe
 
 ## Ingredienser
-- [ ] 300 g hakket oksekød
-- [ ] 1 spsk. olie
-- [ ] 1 løg
-- [ ] 1-2 porrer
-- [ ] 200 g selleri, pastinak eller persillerod
-- [ ] 2 store kartofler
-- [ ] 1 dåse flåede tomater
-- [ ] 1 l boullion (vand + 2 terninger)
-- [ ] 1 spsk. paprika - gerne røget
-- [ ] 1-2 fed hvidløg
-- [ ] Evt. 1 tsk. knust chili
-- [ ] Salt og peber
-- [ ] Hakket persille
-- [ ] Groft brød
+- 300 g hakket oksekød
+- 1 spsk. olie
+- 1 løg
+- 1-2 porrer
+- 200 g selleri, pastinak eller persillerod
+- 2 store kartofler
+- 1 dåse flåede tomater
+- 1 l boullion (vand + 2 terninger)
+- 1 spsk. paprika - gerne røget
+- 1-2 fed hvidløg
+- Evt. 1 tsk. knust chili
+- Salt og peber
+- Hakket persille
+- Groft brød
 
 ## Trin
 1. Rengør alle grøntsagerne og skær dem i mindre tern

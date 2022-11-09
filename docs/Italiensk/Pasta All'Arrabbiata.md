@@ -1,16 +1,15 @@
-#italiensk 
+# Pasta All'Arrabbiata
 
 ## Ingredienser
-2-4 hot chilli’s (depending on how hot you can handle it!)
-2 x garlic cloves
-Parsley (chopped finely)
-Basil
-Rock Salt
-400g Busiati Trapanesi
-800g (28.22oz) peeled tomatoes
-Grated pecorino cheese
-Salt and Pepper
-EVOO
+- 2-4 hot chilli’s (depending on how hot you can handle it!)
+- 2 x garlic cloves
+- Parsley (chopped finely)
+- Basil
+- Rock Salt
+- 400 g Busiati Trapanesi
+- 800 g peeled tomatoes
+- Grated pecorino cheese
+- Salt and Pepper
 
 ## Trin
 1. Put a large pot with 5L water on the stove so the water starts to boil in preparation for the pasta to boil.

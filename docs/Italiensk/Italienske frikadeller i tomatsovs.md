@@ -1,29 +1,28 @@
-#italiensk 
+# Italienske frikadeller i tomatsovs
 
 ## Ingredienser
-ITALIENSKE FRIKADELLER
-500 g fedtfattigt hakket svinekød
-1.5 tsk salt
-1 æg
-2 spsk rasp
-2 spsk revet parmesanost
-1 tsk tørret rosmarin
-2 spsk persille
-1 fed hvidløg
-3/4 dl grøntsagsbouillon
-peber
-olie til stegning
+**ITALIENSKE FRIKADELLER**
+- 500 g fedtfattigt hakket svinekød
+- 1.5 tsk salt
+- 1 æg
+- 2 spsk rasp
+- 2 spsk revet parmesanost
+- 1 tsk tørret rosmarin
+- 2 spsk persille
+- 1 fed hvidløg
+- 3/4 dl grøntsagsbouillon
+- peber
+- olie til stegning
 
-TOMATSAUCE
-1 løg
-1 gulerod
-1 stængel bladselleri
-1.5 fed hvidløg
-1 dåse flåede tomater
-1 dl grøntsagsbouillon
-basilikum
-salt
-peber
+**TOMATSAUCE**
+- 1 løg
+- 1 gulerod
+- 1 stængel bladselleri
+- 1.5 fed hvidløg
+- 1 dåse flåede tomater
+- 1 dl grøntsagsbouillon
+- basilikum
+- salt og peber
 
 ## Trin
 Rør kødet godt sammen med saltet. Tilsæt æg, rasp, parmesanost og tørret rosmarin i. Hak persillen fint, og pres hvidløget. Bland begge dele i farsen sammen med grøntsagsbouillonen, og krydr med peber. Lad farsen hvile i 20-30 minutter.

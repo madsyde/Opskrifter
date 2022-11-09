@@ -1,11 +1,11 @@
-#test
+# Nudler med oksekød og forårsløg
 
 ## Ingredienser
-300 g hakket oksekød
-olivenolie
-1 til 2 spsk rød karrypasta (thai)
-150 g nudler
-3 stk forårsløg
+- 300 g hakket oksekød
+- olivenolie
+- 1 til 2 spsk rød karrypasta (thai)
+- 150 g nudler
+- 3 stk forårsløg
 
 ## Trin
 1. Svits kødet godt i olie indtil det er gennemstegt

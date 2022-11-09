@@ -1,16 +1,16 @@
-#dansk 
+# Koteletter i fad med pikantost og bacon
 
 ## Ingredienser
-- [ ] 1 pk bacon i tern
-- [ ] 4 flotte koteletter
-- [ ] 100 gr champignons i skiver
-- [ ] 1 rød peberfrugt, skåret i små tern
-- [ ] 1 lille dåse majs
-- [ ] 2 tsk mild paprika
-- [ ] 1 tsk chilipulver – eller efter smag
-- [ ] 2.5 dl fløde
-- [ ] 1 bæger pikantost
-- [ ] salt og peber
+- 1 pk bacon i tern
+- 4 flotte koteletter
+- 100 gr champignons i skiver
+- 1 rød peberfrugt, skåret i små tern
+- 1 lille dåse majs
+- 2 tsk mild paprika
+- 1 tsk chilipulver – eller efter smag
+- 2.5 dl fløde
+- 1 bæger pikantost
+- salt og peber
 
 ## Trin
 Varm en stegepande op og steg bacontern lysebrune og sprøde. Fjern baconstykkerne fra panden og lad dem trække på fedtsugende papir. Brun koteletterne på begge sider i baconfedtet på den samme pande. Læg koteletterne i et ildfast fad og drys med salt og peber.

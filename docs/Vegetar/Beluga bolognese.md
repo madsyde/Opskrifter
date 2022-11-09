@@ -1,26 +1,26 @@
-#vegetar 
+# Beluga bolognese
 
 ## Ingredienser
-- [ ] 1 stort løg
-- [ ] 3 spsk. olivenolie
-- [ ] 1 fintrevet gulerod
-- [ ] 3 store fed hvidløg
-- [ ] et nip chiliflakes, stærke (valgfrit)
-- [ ] 1 spsk. hakket timian
-- [ ] 1 god klart smør eller smørbar
-- [ ] 2 spsk. tomatpuré
-- [ ] 1,5 dl rødvin
-- [ ] 0,5 dl fløde eller sødmælk (valgfrit)
-- [ ] 400 g mosede tomater (passata)
-- [ ] 2 dl vand
-- [ ] 1 spsk. koncentreret grøntsagsfond
-- [ ] 2 laurbærblade
-- [ ] 130 g belugalinser
-- [ ] 1-2 tsk. sukker
-- [ ] 1-2 tsk. æblecidereddike
-- [ ] 75-100 pasta (pr. person)
-- [ ] et drys parmesan
-- [ ] et par håndefulde bredbladet persille
+- 1 stort løg
+- 3 spsk. olivenolie
+- 1 fintrevet gulerod
+- 3 store fed hvidløg
+- et nip chiliflakes, stærke (valgfrit)
+- 1 spsk. hakket timian
+- 1 god klart smør eller smørbar
+- 2 spsk. tomatpuré
+- 1,5 dl rødvin
+- 0,5 dl fløde eller sødmælk (valgfrit)
+- 400 g mosede tomater (passata)
+- 2 dl vand
+- 1 spsk. koncentreret grøntsagsfond
+- 2 laurbærblade
+- 130 g belugalinser
+- 1-2 tsk. sukker
+- 1-2 tsk. æblecidereddike
+- 75-100 pasta (pr. person)
+- et drys parmesan
+- et par håndefulde bredbladet persille
 
 ## Trin
 1. Snit løget fint, og sauter ved lav til middel varme med masser af olivenolie i 5-10 minutter.

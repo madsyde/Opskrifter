@@ -1,18 +1,18 @@
-#indisk
+# Kikærter i indisk karry
 
 ## Ingredienser
-- [ ] 2 spsk. rapsolie
-- [ ] 2 stk hakkede løg
-- [ ] 3 fed hvidløg hakkede
-- [ ] 1 spsk. gurkemeje
-- [ ] 1 spsk. spidskommen
-- [ ] 1 spsk. koriander
-- [ ] 2 dåser kikærter
-- [ ] 1 dåse kokosmælk
-- [ ] 1 dåse hakkede tomater
-- [ ] 1 stk. grøntsagsbouillon terning
-- [ ] 1 stk. lime saften
-- [ ] 1 bundt koriander frisk, hakket
+- 2 spsk. rapsolie
+- 2 stk hakkede løg
+- 3 fed hvidløg hakkede
+- 1 spsk. gurkemeje
+- 1 spsk. spidskommen
+- 1 spsk. koriander
+- 2 dåser kikærter
+- 1 dåse kokosmælk
+- 1 dåse hakkede tomater
+- 1 stk. grøntsagsbouillon terning
+- 1 stk. lime saften
+- 1 bundt koriander frisk, hakket
 
 ## Trin
 1. Kom rapsolien i en gryde og steg løg og hvidløg gyldne.

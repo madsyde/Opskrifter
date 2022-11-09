@@ -1,23 +1,23 @@
-#suppe 
+# Tyrkisk Linsesuppe
 
 ## Ingredienser
-3-4 løg
-2-3 fed hvidløg
-1,5 dl røde linser
-3 spsk. tomatpuré
-3-5 kartofler i tern (alt efter størrelsen)
-3-4 gulerødder i skiver (alt efter størrelsen)
-1/2 tsk. stærk karry (eller almindelig)
-1 tsk. paprika
-1 tsk. tørret timian (kan udelades)
-1/2 dl olie at stege i
-1-2 tsk. salt og peber
-1,5 dl vand (måske mere, alt efter den ønskede tykkelse på suppen)
-Bouillonterninger, der svarer til mængden af vand
+- 3-4 løg
+- 2-3 fed hvidløg
+- 1,5 dl røde linser
+- 3 spsk. tomatpuré
+- 3-5 kartofler i tern (alt efter størrelsen)
+- 3-4 gulerødder i skiver (alt efter størrelsen)
+- 1/2 tsk. stærk karry (eller almindelig)
+- 1 tsk. paprika
+- 1 tsk. tørret timian (kan udelades)
+- 1/2 dl olie at stege i
+- 1-2 tsk. salt og peber
+- 1,5 dl vand (måske mere, alt efter den ønskede tykkelse på suppen)
+- Bouillonterninger, der svarer til mængden af vand
 
-TOPPINGS
-Evt. en klat cremefraiche til hver
-Evt. et drys hakket persille
+**TOPPINGS**
+- Evt. en klat cremefraiche til hver
+- Evt. et drys hakket persille
 
 ## Trin
 1. Linserne skylles godt.

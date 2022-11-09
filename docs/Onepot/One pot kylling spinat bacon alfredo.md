@@ -1,16 +1,16 @@
-#onepot 
+# One pot kylling spinat bacon alfredo
 [Buzzfeed](https://www.buzzfeed.com/alvinzhou/one-pot-chicken-spinach-bacon-alfredo?utm_term=.an8eBeGvn#.bhK3e3L4K)
 
 ## Ingredienser
-6 stykker hakket bacon
-2 kyllingebryster i skiver
-5 ounces spinat
-4 fed hvidløg, hakket
-1 teske salt
-1 teske peber
-5 kopper mælk
-1 pund penne
-1 kop Parmesan
+- 6 stykker hakket bacon
+- 2 kyllingebryster i skiver
+- 5 ounces spinat
+- 4 fed hvidløg, hakket
+- 1 teske salt
+- 1 teske peber
+- 5 kopper mælk
+- 1 pund penne
+- 1 kop Parmesan
 
 ## Trin
 1. Cook the bacon in a large pot over medium-high heat until crispy.

@@ -1,25 +1,25 @@
-#dansk
+# Langtidssimret oksegryde
 
 ## Ingredienser
-1 - 1,2 kg oksekød i tern (fx bov eller klump)
-Smør/olie til stegning
-3 løg
-4 - 5 fed hvidløg
-2 spsk. hvedemel
-1 spsk. tomatpuré
-2,5 dl rødvin
-2 tsk. rødvinseddike ((valgfri))
-1 liter oksefond/bouillon
-1 ds hakkede tomater
-1 tsk.  worcestershiresauce ((valgfri))
-1 tsk. sukker
-2 laurbærblade
-Friske krydderurter (fx en lille håndfuld frisk timian og persille eller tørrede urter (fx 2 tsk. timian))
-2 stilke bladselleri
-3 gulerødder
-250 g champignon
-1/2 kg kartofler
-Salt (peber)
+- 1 - 1,2 kg oksekød i tern (fx bov eller klump)
+- Smør/olie til stegning
+- 3 løg
+- 4 - 5 fed hvidløg
+- 2 spsk. hvedemel
+- 1 spsk. tomatpuré
+- 2,5 dl rødvin
+- 2 tsk. rødvinseddike ((valgfri))
+- 1 liter oksefond/bouillon
+- 1 ds hakkede tomater
+- 1 tsk.  worcestershiresauce ((valgfri))
+- 1 tsk. sukker
+- 2 laurbærblade
+- Friske krydderurter (fx en lille håndfuld frisk timian og persille eller tørrede urter (fx 2 tsk. timian))
+- 2 stilke bladselleri
+- 3 gulerødder
+- 250 g champignon
+- 1/2 kg kartofler
+- Salt (peber)
 
 ## Trin
 Dup kødet tørt på et rent viskestykke eller køkkenrulle, krydr med salt og peber og brun ad flere omgange i en stor gryde. Sæt til side og kog evt. gryden af med en smule af rødvinen, som hældes over oksekødet.

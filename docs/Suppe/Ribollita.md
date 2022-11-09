@@ -1,23 +1,23 @@
-#italiensk #suppe 
+# Ribollita
 
 ## Ingredienser
-- [ ] 300 g kål
-- [ ] 250 g bønner fra dåse
-- [ ] 4 fed hvidløg
-- [ ] 3 stk. skalotteløg
-- [ ] 3 stk. bladselleri, stængler
-- [ ] 2 stk. gulerødder
-- [ ] 1/4 knoldselleri
-- [ ] 2 spsk. tomatpuré
-- [ ] 3 stk. tomater
-- [ ] 1 stk. bagekartoffel
-- [ ] 1 kvist persille
-- [ ] 6 spsk. olivenolie
-- [ ] 2 spsk. kapers
-- [ ] 1 kvist salvie
-- [ ] 3 dl hvidvin
-- [ ] 2 stk. grøntsagsbouillonterninger
-- [ ] 40 g parmesan
+- 300 g kål
+- 250 g bønner fra dåse
+- 4 fed hvidløg
+- 3 stk. skalotteløg
+- 3 stk. bladselleri, stængler
+- 2 stk. gulerødder
+- 1/4 knoldselleri
+- 2 spsk. tomatpuré
+- 3 stk. tomater
+- 1 stk. bagekartoffel
+- 1 kvist persille
+- 6 spsk. olivenolie
+- 2 spsk. kapers
+- 1 kvist salvie
+- 3 dl hvidvin
+- 2 stk. grøntsagsbouillonterninger
+- 40 g parmesan
 
 ## Trin
 1. Skær alt grønt i fine tern - undtagen kålen, som enten plukkes i små stykker eller skæres i tynde strimler.

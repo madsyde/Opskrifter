@@ -1,13 +1,13 @@
-#italiensk 
+# Penne All'Arrabbiata
 
 ## Ingredienser
-- [ ] 500 g penne
-- [ ] 3 fed hvidløg
-- [ ] 2-4 små peperoncini
-- [ ] Salt
-- [ ] Olivenolie
-- [ ] 1 dåse tomater
-- [ ] Hakket persille
+- 500 g penne
+- 3 fed hvidløg
+- 2-4 små peperoncini
+- Salt
+- Olivenolie
+- 1 dåse tomater
+- Hakket persille
 
 ## Trin
 1. Svits hvidløg og peperoncini i en høj pande, tilsæt tomater og salt og lad det hele simre i 15-20 minutter, mens det halve kilo penne koges i en stor gryde med spilkogende, saltet vand.

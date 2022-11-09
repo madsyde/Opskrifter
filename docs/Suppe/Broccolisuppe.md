@@ -1,14 +1,14 @@
-#suppe 
+# Broccolisuppe
 
 ## Ingredienser
-- [ ] 1 grofthakket zittauerløg
-- [ ] 25 g smør
-- [ ] 200 g kartofler i små stykker
-- [ ] 1 liter grøntsagsbouillon
-- [ ] 500 g broccoli
-- [ ] 2.5 dl mælk
-- [ ] 1 tsk groft salt
-- [ ] Friskkværnet peber
+- 1 grofthakket zittauerløg
+- 25 g smør
+- 200 g kartofler i små stykker
+- 1 liter grøntsagsbouillon
+- 500 g broccoli
+- 2.5 dl mælk
+- 1 tsk groft salt
+- Friskkværnet peber
 
 ## Trin
 1. Svits løget i gyldent smør i en gryde. 

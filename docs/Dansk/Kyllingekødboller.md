@@ -1,14 +1,14 @@
-#dansk
+# Kyllingekødboller
 
 ## Ingredienser
-- [ ] 300 g hakket kyllingekød
-- [ ] 2 tsk fintrevet citronskal
-- [ ] 1 tsk salt
-- [ ] Friskkværnet peber
-- [ ] 200 g hytteost
-- [ ] 1 æg
-- [ ] 3 spsk havregryn
-- [ ] 25 g smør
+- 300 g hakket kyllingekød
+- 2 tsk fintrevet citronskal
+- 1 tsk salt
+- Friskkværnet peber
+- 200 g hytteost
+- 1 æg
+- 3 spsk havregryn
+- 25 g smør
 
 ## Trin
 1. Rør det hakkede kød godt med citronskal, salt og peber

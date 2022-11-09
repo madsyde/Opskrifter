@@ -1,13 +1,13 @@
-#misc 
+# Omelet med svampe og ost
 
 ## Ingredienser
-- [ ] 5 æg
-- [ ] 75 g parmesan, friskrevet
-- [ ] 200 g champignon, i kvarte
-- [ ] 1 spsk smør
-- [ ] flagesalt
-- [ ] sort peber, friskkværnet
-- [ ] 1 håndfuld frisk timian
+- 5 æg
+- 75 g parmesan, friskrevet
+- 200 g champignon, i kvarte
+- 1 spsk smør
+- flagesalt
+- sort peber, friskkværnet
+- 1 håndfuld frisk timian
 
 ## Trin
 1. Rist svampene ved høj varme på en pande med halvdelen af smør.

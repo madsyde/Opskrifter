@@ -1,16 +1,16 @@
-#italiensk 
+# Puttanesca
 
 ## Ingredienser
-300g – Spaghetti (use a dry, long pasta) OR Penne
-6x Anchovies in olive oil
-2x Tablespoons of Capers under salt
-2 garlic cloves
-Kalamata olives (Or Gaeta olives if you can get them!)
-1 tin peeled tomatoes (or a generous amount of juicy cherry tomatoes)
-Bunch fresh parsley
-Rock Salt
-Extra virgin olive oil
-Salt and Pepper
+- 300g – Spaghetti (use a dry, long pasta) OR Penne
+- 6x Anchovies in olive oil
+- 2x Tablespoons of Capers under salt
+- 2 garlic cloves
+- Kalamata olives (Or Gaeta olives if you can get them!)
+- 1 tin peeled tomatoes (or a generous amount of juicy cherry tomatoes)
+- Bunch fresh parsley
+- Rock Salt
+- Extra virgin olive oil
+- Salt and Pepper
 
 ## Trin
 Puttanesca sauce is very flavoursome and salty so start by washing the capers under water to remove the salt.
@@ -39,6 +39,6 @@ Toss the pan with the puttanesca pasta so all of the ingredients dance together.
 
 Remove the pan from the stove.
 
-HOW TO SERVE
+**HOW TO SERVE**
 
 Serve up a single portion of puttanesca pasta on a flat plate and enjoy nice and hot! Make sure once you have served it up on a plate, you use a spoon to scoop up some extra capers and olives from the puttanesca sauce and add it to each portion. Sprinkle some freshly chopped parsley on top. It will be full of flavour with an added kick, so enjoy every mouthful.
