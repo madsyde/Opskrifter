@@ -9,7 +9,7 @@
 - 6-8 kviste timian evt. citrontimian
 - Evt. 1 dl bouillon
 
-**Tilbehør**
+### Tilbehør
 - 3 dl ris - gerne brune ris
 - 2-3 gulerødder
 - 1 bundt broccoli, ca. 500 g
