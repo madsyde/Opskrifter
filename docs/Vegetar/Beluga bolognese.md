@@ -31,6 +31,7 @@
 6. Server med pasta og godt med parmesan på toppen. Lidt hakket bredbladet persille er også skønt.
 
 ## Noter
-Erstat evt. 
+Erstat evt.
+
 - Frisk timian med 1 tsk tørret.
 - Belugalinser med delikatesse- eller puylinser.
