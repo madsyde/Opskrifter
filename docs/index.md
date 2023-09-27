@@ -103,6 +103,8 @@
 
 [[Ostesuppe]]
 
+[[Pastasuppe med kylling]]
+
 [[Ribollita]]
 
 [[Rissuppe med Oksekød og Ristede Løg]]
